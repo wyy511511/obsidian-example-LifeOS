@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62b86d6fde7cb965",
+        "id": "fb5f8449f74a1833",
         "type": "tabs",
         "children": [
           {
-            "id": "6f99276f12d51efe",
+            "id": "ad8004f9c8b7adc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "HOME.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": 130,
+                  "zoom": -0.5782864358653345
+                }
+              }
             }
           }
         ]
@@ -68,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#工作/one-one",
+                "query": "tag:#CS-ML",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/工作/README.md",
+                "file": "HOME.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/工作/README.md"
+                "file": "HOME.canvas"
               }
             }
           },
@@ -131,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/工作/README.md",
+                "file": "HOME.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,47 +157,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "random-note:开始漫游笔记": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc8540b919f4ee67",
+  "active": "ad8004f9c8b7adc7",
   "lastOpenFiles": [
-    "2. Areas/工作/README.md",
+    "2. Areas/求职/README.md",
+    "1. Projects/CS-ML/吴恩达视频课程.md",
+    "PeriodicNotes/2023/Daily/07/2023-07-09.md",
+    "PeriodicNotes/2023/Daily/07/2023-07-10.md",
+    "HOME.canvas",
     "1. Projects/分享-2023 WOT 分享会/README.md",
-    "2. Areas/知识管理/README.md",
+    "1. Projects/分享-2023 WOT 分享会",
+    "PeriodicNotes/2023/Daily/06/2023-06-04.md",
+    "PeriodicNotes/2023/Daily/07/Pasted image 20230709021459.png",
+    "1. Projects/CS-ML/cs224n.md",
+    "1. Projects/CS-ML/README.md",
+    "2. Areas/CS/CS overview.md",
+    "1. Projects/CS- java商城/java商城项目.md",
+    "1. Projects/CS- java商城/README.md",
+    "1. Projects/出国留学-签证/签证材料准备.md",
+    "1. Projects/CS- java商城",
+    "1. Projects/出国留学-签证/Untitled",
+    "1. Projects/出国留学-签证/README.md",
+    "1. Projects/出国留学-签证",
+    "1. Projects/CS-ML/Untitled",
+    "2. Areas/CS/README.md",
     "1. Projects/README.md",
+    "TASK.md",
+    "README.md",
+    "1. Projects/CS-ML",
+    "1. Projects/Untitled.md",
+    "PeriodicNotes/2023/Daily/07",
+    "2. Areas/出国留学/README.md",
+    "2. Areas/求职",
+    "2. Areas/出国留学",
+    "2. Areas/CS",
+    "2. Areas/工作/README.md",
+    "2. Areas/知识管理/README.md",
     "PeriodicNotes/2023/Daily/06/2023-06-02.md",
     "PeriodicNotes/2023/Daily/06/2023-06-07.md",
     "PeriodicNotes/2023/Daily/06/2023-06-06.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-13.md",
-    "PeriodicNotes/2023/Weekly/2023-W22.md",
-    "PeriodicNotes/2023/Daily/07/2023-07-05.md",
-    "PeriodicNotes/2023/Daily/07/2023-07-07.md",
-    "PeriodicNotes/2023/Daily/07/2023-07-11.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-05.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-04.md",
-    "TASK.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-01.md",
-    "PeriodicNotes/2023/Daily/07/2023-07-01.md",
-    "PeriodicNotes/2023/Daily/07",
-    "PeriodicNotes/2023/Weekly/2023-W23.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-03.md",
-    "HOME.canvas",
-    "Templates/PeriodicNotes/Daily.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-08.md",
-    "Templates/PARA.md",
-    "PeriodicNotes/2023/2023.md",
-    "PeriodicNotes/2023/2023-Q1.md",
-    "PeriodicNotes/2023/Monthly/2023-06.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
-    "Templates/Project"
+    "PeriodicNotes/2023/Daily/06/2023-06-13.md"
   ]
 }
